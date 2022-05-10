@@ -1,0 +1,4 @@
+1. flex-direction determines the directionality of the main axis 
+2. flex-direction by default is "ROW" - main axis is going from LEFT TO RIGHT
+3. flex-direction column: the main axis is going from top to bottom & the cross axis is going from left to RIGHT
+4. 
