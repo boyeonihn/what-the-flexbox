@@ -1,0 +1,44 @@
+.container {
+    display: flex; 
+    height: 100vh; 
+}
+
+.box {
+    text-align: center; 
+    font-size: 30px;
+    width: 50px;
+    color: white;
+    text-shadow: 4px 4px 0 rgba(0,0,0, .5); 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.box1 {
+    background: lightcoral; 
+}
+.box2 {
+    background: lightsalmon;
+}
+.box3 {
+    background: lightgoldenrodyellow;
+}
+.box4 {
+    background: lightgreen;
+}
+.box5 {
+    background: lightskyblue;
+}
+.box6 {
+    background: lightpink;
+}
+.box7 {
+    background: lightsteelblue;
+}
+.box8 {
+    background: lightseagreen;
+}
+.box9 {
+    background: lightslategray;
+}
+.box10 {
+    background:plum;
+}
